@@ -1,0 +1,11 @@
+begin
+background1=gbg_clouds
+background2=gbg_border640x480
+views=true [0]poj_player
+settings_mapname=spr_skyrun
+map_width=4096
+map_height=480
+maptype=default map
+mapdesc=Unfinished < sky map with alot of grinding
+objects=map_skyrun.objects.mdf
+end

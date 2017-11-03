@@ -1,0 +1,11 @@
+begin
+background1=gbg_clouds
+background2=gbg_border640x480
+views=false
+settings_mapname=cir_640cube
+map_width=640
+map_height=480
+maptype=default map
+mapdesc=640x480 px cube to have fun with. 
+objects=map_640cube.objects.mdf
+end

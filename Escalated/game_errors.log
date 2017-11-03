@@ -1,0 +1,18 @@
+ERROR in
+action number 1
+of  Step Event
+for object obj_player:
+
+Error in code at line 13:   
+    _acc=acc;            ^at position 11: Unknown variable acc
+
+
+ERROR in
+action number 2
+of  Step Event
+for object obj_player:
+
+Error in code at line 3:   
+if keyboard_check(left) or keyboard_check(right) && !place_free(x,y+1){                     ^at position 20: Unknown variable left
+
+
